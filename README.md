@@ -1,7 +1,7 @@
 # Projeto: Remake do site de Startups InovaTec UFSM
 ![Desktop](./assets/edf50cc0-c3f5-40be-89bd-f71da7be96b0.gif "Screenshot do projeto")
 
-Acesso: https://wedersonf.github.io/desenv-web-t1/
+Acesso: https://elc1090.github.io/project1-2024a-wedersonf/
 
 ### Desenvolvedor
 Wederson Machado Fagundes | Sistemas de Informação
